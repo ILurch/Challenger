@@ -1,0 +1,4 @@
+name: Challenger
+version: 0.0.2-SNAPSHOT
+author: ILurch
+main: de.lurch.challenger.plugin.Challenger
